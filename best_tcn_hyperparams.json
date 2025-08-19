@@ -1,0 +1,7 @@
+{
+    "embed_dim": 16,
+    "nb_filters": 64,
+    "kernel_size": 2,
+    "dropout_rate": 0.30000000000000004,
+    "dense_units": 32
+}
